@@ -1,0 +1,1 @@
+# Este es un proyecto independiente para hacer una aplciación de chat local y publico con python.
